@@ -1,4 +1,5 @@
 # Pico-SLASH-Display
+NOTE: Source code will follow soon. I discover a last minute glitch in the code that I want to fix before posting...<br/><br/>
 <img width="665" height="62" alt="image" src="https://github.com/user-attachments/assets/d73a9775-d624-407b-b70a-c68fd1ec069e" />
 
 <img width="338" height="246" alt="image" src="https://github.com/user-attachments/assets/3d8a42c3-38ce-408a-af07-8af804ea53d0" />
